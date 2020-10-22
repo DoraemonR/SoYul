@@ -1,2 +1,3 @@
 # SoYul
-WorldSoYul
+Hi everyone,
+Welcome to SoYul World!
